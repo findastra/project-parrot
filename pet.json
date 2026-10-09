@@ -1,0 +1,24 @@
+{
+  "pet": "Project Parrot",
+  "kind": "pet-app",
+  "owner": "Astra",
+  "job": "Planned: periodically reviews OneNote for new project ideas and reminds Astra to start them.",
+  "sprite": "sprite-20261008.json",
+  "preview": "project-parrot-20261008.html",
+  "status": "hatching",
+  "version": "0.1.0-20261008",
+  "source": "https://github.com/findastra/project-parrot/tree/v0.1.0-20261008",
+  "release_tag": "v0.1.0-20261008",
+  "publication_status": "local-only; GitHub repository creation currently rate-limited",
+  "visibility": "private",
+  "implementation_status": "Working offline draft: purpose-specific records, editing, status changes, search, local browser storage, JSON and Markdown exports. External integrations are planned.",
+  "cage": {
+    "topic": "pet-app",
+    "home": "README.md",
+    "repository": "https://github.com/findastra/astras-pet-apps"
+  },
+  "updated": "2026-10-08",
+  "built_with": "browser interface prepared with Codex (GPT-6), 2026-10-08",
+  "entry": "project-parrot-20261008.html",
+  "runs_on": "Modern browser, directly from the local HTML file; no server or dependencies."
+}

@@ -3,13 +3,19 @@
 - App: Project Parrot
 - Owner and credit: Astra
 - Version: `0.1.0-20261008`
-- Immutable source tag: `v0.1.0-20261008`
-- Intended private repository: https://github.com/findastra/project-parrot
+- Immutable source tag: [`v0.1.0-20261008`](https://github.com/findastra/project-parrot/tree/v0.1.0-20261008)
+- Exact source commit: [`43f2bc7eee8d4bf4cec96a99e2f2ac4518c8f2cb`](https://github.com/findastra/project-parrot/commit/43f2bc7eee8d4bf4cec96a99e2f2ac4518c8f2cb)
+- Private repository: https://github.com/findastra/project-parrot
+- GitHub pre-release: https://github.com/findastra/project-parrot/releases/tag/v0.1.0-20261008
+- Upload and release verification date: 2026-10-08
+- Runtime: standalone HTML, CSS, and JavaScript in a modern browser; no hosted platform deployment verified
 - Browser entry: `project-parrot-20261008.html`
 
 ## Publication boundary
 
-Remote creation is blocked by GitHub account rate limiting. Prepared and tagged locally; no remote publication or live deployment is claimed.
+The source was uploaded to the private repository. Remote `main` and the peeled immutable tag were verified against the exact source commit above. GitHub pre-release creation and the `pet-app` repository topic were also verified. Repository and release links require collaborator access.
+
+This documentation receipt follows the tagged source without moving or replacing its tag. The source archive is available through the pre-release; a hosted application deployment has not been verified.
 
 ## Validation
 
@@ -23,4 +29,4 @@ Keep this tag immutable. If a defect is found, fix it in a new commit and publis
 
 ## Remaining work
 
-GitHub Release creation and live hosting verification are tracked separately. Planned external integrations are listed in the README and shown in the browser interface.
+Live hosting remains unverified. Planned OneNote scanning and background notifications remain unconnected; the README and browser interface describe the working local features.

@@ -30,6 +30,8 @@ Project Parrot shows due reminders while the page is open. Periodic OneNote scan
 
 Version `0.1.0-20261008` is published at immutable tag [`v0.1.0-20261008`](https://github.com/findastra/project-parrot/tree/v0.1.0-20261008), source commit [`43f2bc7`](https://github.com/findastra/project-parrot/commit/43f2bc7eee8d4bf4cec96a99e2f2ac4518c8f2cb). The [GitHub pre-release](https://github.com/findastra/project-parrot/releases/tag/v0.1.0-20261008) was verified on 2026-10-08. These private links are visible to repository collaborators. Source and release verification are recorded in [the publication record](docs/publications-20261008.md); hosted deployment has not been verified.
 
+Version `0.1.1-20261009` squares the pet frame; tag [`v0.1.1-20261009`](https://github.com/findastra/project-parrot/tree/v0.1.1-20261009). See [the 2026-10-09 publication record](docs/publications-20261009.md).
+
 ## Credits
 
 Made by Astra. Interface prepared with Codex (GPT-6), 2026-10-08. The pet artwork is copied from Astra's Pet Apps.
